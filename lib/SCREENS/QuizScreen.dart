@@ -324,7 +324,7 @@ class _QuizScreenState extends State<QuizScreen> {
                   ),
                   Center(
                     child: Text(
-                      ' $firstNumber $showSign $secondNumber = ? ',
+                      ' $firstNumber $showSign $secondNumber = ?  : ',
                       style: TextStyle(
                         color: Colors.white,
                         decoration: TextDecoration.none,
