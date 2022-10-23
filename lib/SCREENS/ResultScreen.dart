@@ -12,7 +12,7 @@ class ResultsSCreen extends StatelessWidget {
     return SafeArea(
       child: Container(
         padding: EdgeInsets.all(100),
-        decoration: BoxDecoration(color: Colors.black),
+        decoration: BoxDecoration(color: Colors.lightGreenAccent),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
